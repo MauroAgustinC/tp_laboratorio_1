@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1474346393 source:c:\users\agustin\desktop\workspace\tp_1\carrizo.c
+	<stdio.h>
+	"Carrizo.h"
+
+1474346393 c:\users\agustin\desktop\workspace\tp_1\carrizo.h
+	<stdio.h>
+
+1474346393 source:c:\users\agustin\desktop\workspace\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Carrizo.h"
+
